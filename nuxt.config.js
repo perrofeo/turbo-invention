@@ -57,6 +57,13 @@ export default {
   modules: [
     '@nuxtjs/pwa'
   ],
+  pwa: {
+    manifest: {
+      start_url: "/?standalone=false",
+      display: "minimal-ui",
+      lang: "es"
+    }
+  },
   /*
   ** Build configuration
   */

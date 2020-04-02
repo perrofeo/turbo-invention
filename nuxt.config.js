@@ -13,15 +13,15 @@ export default {
       // <!-- Open Graph / Facebook -->
       { property:"og:type", content:"website" },
       { property:"og:url", content:"https://mercairun.netlify.com/" },
-      { property:"og:title", content:"MercaIrun" },
-      { property:"og:description", content:"MercaIrun - Reparto a domicilio durante la cuarentena" },
+      { property:"og:title", content:"MERCAIRUN" },
+      { property:"og:description", content:"MERCAIRUN - Reparto a domicilio durante la cuarentena." },
       { property:"og:image", content:"" },
 
       // <!-- Twitter -->
       {property:"twitter:card", content:"summary_large_image"},
       {property:"twitter:url", content:"https://mercairun.netlify.com/"},
-      {property:"twitter:title", content:"MercaIrun"},
-      {property:"twitter:description", content:"MercaIrun - Reparto a domicilio durante la cuarentena"},
+      {property:"twitter:title", content:"MERCAIRUN"},
+      {property:"twitter:description", content:"MERCAIRUN - Reparto a domicilio durante la cuarentena."},
       {property:"twitter:image", content:""}
     ],
     link: [

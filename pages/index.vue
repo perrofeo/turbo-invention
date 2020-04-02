@@ -87,7 +87,7 @@
 
 @media (max-width: 600px) {
   .title {
-    font-size: 70px;
+    font-size: 60px;
   }
   .subtitle {
     font-size: 21px;

@@ -1,7 +1,7 @@
 {
   "name": "MERCAIRUN",
   "version": "1.0.0",
-  "description": "MERCAIRUN - Reparto a domicilio durante la cuarentena",
+  "description": "MERCAIRUN - Reparto a domicilio durante la cuarentena.",
   "author": "igor",
   "private": true,
   "scripts": {

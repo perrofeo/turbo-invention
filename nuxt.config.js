@@ -9,7 +9,20 @@ export default {
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-      { hid: 'description', name: 'description', content: process.env.npm_package_description || '' }
+      { hid: 'description', name: 'description', content: process.env.npm_package_description || '' },
+      // <!-- Open Graph / Facebook -->
+      { property:"og:type", content:"website" },
+      { property:"og:url", content:"https://mercairun.netlify.com/" },
+      { property:"og:title", content:"MercaIrun" },
+      { property:"og:description", content:"MercaIrun - Reparto a domicilio durante la cuarentena" },
+      { property:"og:image", content:"" },
+
+      // <!-- Twitter -->
+      {property:"twitter:card", content:"summary_large_image"},
+      {property:"twitter:url", content:"https://mercairun.netlify.com/"},
+      {property:"twitter:title", content:"MercaIrun"},
+      {property:"twitter:description", content:"MercaIrun - Reparto a domicilio durante la cuarentena"},
+      {property:"twitter:image", content:""}
     ],
     link: [
       { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }

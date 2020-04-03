@@ -27,7 +27,7 @@
       </div>
       <div class="more-info">
         <p>El pasado 23 de marzo, se redujo el horario del mercado, que durante estos días está abriendo de 9.00 a 13.30 y de 16.30 a 19.00.</p>
-        <p>Más información, en el teléfono del C.C. Mendibil <a href="tel:+34943638394"> 943 638394.</a></p>
+        <p>Más información, en el teléfono del C.C. Mendibil <a href="tel:+34943638394"> 943 638394</a>.</p>
       </div>
     </div>
   </div>
